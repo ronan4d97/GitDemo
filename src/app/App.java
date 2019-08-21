@@ -13,7 +13,8 @@ public class App {
         System.out.println("1 more day is all that's left !");
         System.out.println("MPC is in one more day !");
         System.out.println("Singhan is scared");
-
+        System.out.println("Singhan is a bit relieved");
+        
 
 
 
