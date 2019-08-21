@@ -10,6 +10,7 @@ public class App {
         System.out.println("Game is awersome");
         System.out.println("Nikhil is awesome");
         System.out.println("We are all awesome!");
+        System.out.println("1 more day is all that's left !");
         
 
 
