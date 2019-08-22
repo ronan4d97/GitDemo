@@ -15,7 +15,7 @@ public class App {
         System.out.println("Singhan is scared");
         System.out.println("This is a half sentence lol");
          System.out.println("Singhan is a bit relieved");
-        
+         System.out.println("LordRonan is now in charge"); 
 
 
 
